@@ -2,7 +2,7 @@
 
 ## Startup Sequence
 
-The startup sequence is follows as : start_game -->timer_start-->collision_with_wall-->calculate_score-->declare_winner-->quit_game
+The startup sequence is follows as : start-game-->timer-start-->collision-with-wall-->calculate-score-->declare-winner-->quit-game
 
 ## Movement Initiation
 
