@@ -16,7 +16,7 @@ this module calculates the score of players.
   gives the ball to left hand side player for hit on the
   ball again.
   
-  ### Scenario: - right hand side player scores.
+### Scenario: - right hand side player scores
 
   Given - Both players hits the ball through the paddle.
 
