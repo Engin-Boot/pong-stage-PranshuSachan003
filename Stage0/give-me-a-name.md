@@ -2,7 +2,7 @@
 
 ## Feature
 
-This module is responsible for initialization of game. 
+This module is responsible for initialization of game.
 
 ## Acceptance Criteria
 
@@ -14,4 +14,3 @@ This module is responsible for initialization of game.
 
   Then -Player at left hand side can hit the ball and timer-start module also starts.
 
-### -add-scenario-if-needed
