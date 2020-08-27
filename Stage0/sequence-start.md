@@ -18,5 +18,5 @@ or restart the game.
 
 ## One score
 
-When collision_with_ball module finds collision then it calls the
-calculate_score module.
+When collision-with-ball module finds collision then it calls the
+calculate-score module.
