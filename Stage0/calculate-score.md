@@ -3,9 +3,10 @@
 ## Feature
 
 this module calculates the score of players.
+
 ## Acceptance Criteria
 
-### Scenario: -describe-a-scenario-of-this-module
+### Scenario: - left hand side player scores
 
   Given - Both players hits the ball through the paddle.
 
@@ -15,7 +16,7 @@ this module calculates the score of players.
   gives the ball to left hand side player for hit on the
   ball again.
   
-  ### Scenario: -describe-a-scenario-of-this-module
+  ### Scenario: - right hand side player scores.
 
   Given - Both players hits the ball through the paddle.
 
