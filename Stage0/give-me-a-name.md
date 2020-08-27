@@ -1,17 +1,17 @@
-# -give-this-module-a-name
+# Start-game
 
 ## Feature
 
-What part of the game does this module deliver?
+This module is responsible for initialization of game. 
 
 ## Acceptance Criteria
 
 ### Scenario: -describe-a-scenario-of-this-module
 
-  Given -give-initial-values-and-conditions
+  Given -Players are ready to play the game and game works perfectly.
 
-  When -event-happens
+  When - players clicks on start the play option.
 
-  Then -module-does-this
+  Then -Player at left hand side can hit the ball and timer-start module also starts.
 
 ### -add-scenario-if-needed
