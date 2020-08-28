@@ -9,7 +9,6 @@ game terminates automatically.
 
 ### Scenario: -Clock starts as players starts playing the game
 
-
   Given -Game already starts and clock works good.
 
   When - Player at left hand side hits the ball.
