@@ -6,7 +6,7 @@ This module is initialization of game.
 
 ## Acceptance Criteria
 
-### Scenario: -describe-a-scenario-of-this-module
+### Scenario: -Players confirmation to start the game
 
   Given -Players are ready to play the game and game works good.
 
