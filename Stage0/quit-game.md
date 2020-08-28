@@ -9,7 +9,7 @@ after declares the winner.
 
 ### Scenario: -describe-a-scenario-of-this-module
 
-  Given -Atleast one player needs only one point
+  Given -At least one player needs only one point
   to win the game.
 
   When -Winner is known.
