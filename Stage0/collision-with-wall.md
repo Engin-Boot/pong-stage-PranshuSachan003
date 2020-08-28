@@ -6,7 +6,7 @@ this module checks collision of ball with wall.
 
 ## Acceptance Criteria
 
-### Scenario: -describe-a-scenario-of-this-module
+### Scenario: -Ball hits by players collide with the wall
 
   Given -Both players hits the ball through the paddle.
 
